@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "Henny Penny",
+    "email": "HP@computer.com",
+    "phone": "800-458-7364",
+    "birthdate": "10/08/2020",
+    "id": 4
+  },
+  { 
+    "name": "Dell Pearson",
+    "email": "dell@data.com",
+    "phone": "800-172-4987",
+    "birthdate": "04/02/2007",
+    "id": 5
+  },
+  { 
+    "name": "Apple McIntosh",
+    "email": "AMI@builds.com",
+    "phone": "800-854-6458",
+    "birthdate": "12/18/2005",
+    "id": 6
+  }
+]
